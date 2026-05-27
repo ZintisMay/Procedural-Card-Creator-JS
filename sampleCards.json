@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Barry",
+    "type": "Character",
+    "icons": ["Fire", "Water", "Energy"],
+    "text": "Enter: Opponent discards a Dark card."
+  }
+]

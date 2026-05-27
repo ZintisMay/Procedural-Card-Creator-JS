@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "30508180466d243daa5dc21499d8a6baa5e20a31a3ca87c4c15a092c53258f0f",
+    "name": "Empire Jedi #1",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "090d20a0e4197274333a776183f3ecc713a137ed016115a6f142fdce2f6b0ba7",
+    "name": "Empire Jedi #2",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "ef42d08fad615263e2d703493528bf873e08c5c591e81c9a76475440231ed08b",
+    "name": "Empire Jedi #3",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f85bf30fa3212271198d37d283829bed1b186f579dacd9caacec009d62f63238",
+    "name": "Empire Jedi #4",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "2b1ba14d7240a664dbd8d5b10bb8860a6ccc07005bc8eb6fa4b285ab2501387c",
+    "name": "Empire Jedi #5",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "664bdfe0b8a8eed59e5792f91f55d50549367b9efe60134ad4129d5f2d8ea298",
+    "name": "Empire Jedi #6",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "14014242fee8507eafdacc68ea6e4ff1ab3f0e7810d35508de5f0ce9635533f7",
+    "name": "Empire Jedi #7",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "aa0d838ffad03a82d8dbe8ce385bba6eaf2cd4157227f5822b927cbc34f01b6f",
+    "name": "Empire Jedi #8",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "9c1e9100e947216b479fc9fd44d45ed73666fecc9f316e6653368885e63f6394",
+    "name": "Empire Jedi #9",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "5573a2a421b62507cb00d6be548205b944578e6b3c2afb0a5a86abada49d319a",
+    "name": "Empire Jedi #10",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "d71403cdb3c61fc1569430761df40764b69ea185347bff517d1b679a99ceee2f",
+    "name": "Empire Jedi #11",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "92e156754c675378b2966f92236ac4bcc617b871de5430e855900c3acc0fc655",
+    "name": "Empire Jedi #12",
+    "faction": "Empire",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "361f3c85688d015a30c55b768e582447a3e92a60a20210bf868fe8f6bbf053f2",
+    "name": "Empire Sith #1",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "c42f60a2094eead9b0aa3571076b018e2e92ad24f00c4fb009ca7116cd04275d",
+    "name": "Empire Sith #2",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "3ef40f638c2a56207ee61f527d663b80e44f2b65465f35a6c01822438a962ffc",
+    "name": "Empire Sith #3",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b191d250414a4e199a77601bcd81c13c639031e84d0c8042f54bfa0fd946ad1f",
+    "name": "Empire Sith #4",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "250aecd34e2f8f3dff1e093a6810ed28a419de4511c7dd0c9298becf045f1bb3",
+    "name": "Empire Sith #5",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a306ff860f097fa0f1da8c55376025e7a914750dbac46e3b5f95a34280ed783d",
+    "name": "Empire Sith #6",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "ea792800202d26224ae50ac6afe343defafb3093c0ac10894baffef61577b21f",
+    "name": "Empire Sith #7",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "83c0eedb48ea20986654af58af81db24f78e348538e5d32a4f56dae3f27474a5",
+    "name": "Empire Sith #8",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "9ba0edc5b491ffa3ee855360b6a243b0c152171537bfd14c0b2b019f6c861e06",
+    "name": "Empire Sith #9",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "6aa9cb01405b2f4fae290f30260e9aa96c3861230c758093e404946149fd8f23",
+    "name": "Empire Sith #10",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3689d289c75ab177ec8e48f48429697ebd1ce2f8d4438d9f0c3cc2940583db21",
+    "name": "Empire Sith #11",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "f747e169f44c97c5dfb0a8d8e933b343d655adb5def42f6cbc6f5ccc49bc2805",
+    "name": "Empire Sith #12",
+    "faction": "Empire",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "962111127af2a06ac05632b3d70cd099ab51237f442a9f304248b93daf40d7ab",
+    "name": "Empire Rebel #1",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "424644632074e74df2a0716fda99cab24834b584e350600c3014f15f726f5ebf",
+    "name": "Empire Rebel #2",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "daab33974dd46aacb7bff120385acfbc3db8a1318470177e7aa64c814a574dae",
+    "name": "Empire Rebel #3",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "db4fcf0bf2e8df7f62aedfca604597242bee68a57bef493986fef472d157d157",
+    "name": "Empire Rebel #4",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "eb67542aa01c7b8c44d283f16ef50245b446b53ff13a34e0e7e25674d5214e7d",
+    "name": "Empire Rebel #5",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "24cdeae533cbe45e0d17e5b756e472244b607e62660753457859a1b48f4afc07",
+    "name": "Empire Rebel #6",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "9047cb713fd0396ee2672e67806dc00260f815e7791632b148dc2cfba612c4cb",
+    "name": "Empire Rebel #7",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "10521f9412ca5c0219710bb914a988ea6c880ec84a52e900b5f113340d308575",
+    "name": "Empire Rebel #8",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "bd91836d1a8e1a1211990844dae0b2574272cf82f76bd1d3aee415b5008f31c4",
+    "name": "Empire Rebel #9",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "1c28fde1d0e9d55baa57336a123bbaf775f63a49ed9ba42ef25c92ab74f41087",
+    "name": "Empire Rebel #10",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "7c53cf9e24b3517dfe4e3214fb9053c93098f07c1e1dc8ae1f31b01fefc6b2d0",
+    "name": "Empire Rebel #11",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "b7132fbf43c14bdaff2b9fed53e8a596f6fabc6df780d2aac2484c5025fdc9f1",
+    "name": "Empire Rebel #12",
+    "faction": "Empire",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a74ebeb98bad5ae6838c9724eb4b7ebbb05e372d6ea24b7ac3d5fcde3e1bea91",
+    "name": "Empire Imperial #1",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "aa61fe486b69d15166b546468d858290177b9096fbf5a52f5cc0a5e0ab1a3af0",
+    "name": "Empire Imperial #2",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "3b90d52d3a38df4a2d1033097c4046d78b679555cbb234861723fbb70cae6c1a",
+    "name": "Empire Imperial #3",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "5de13fd7a028902196ff1fd3515ae8706094eb51bc99523a77916517e0bc1f4f",
+    "name": "Empire Imperial #4",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "f63286af254920cda85426b5924769f5be1b7863d3afa61c4a063f4ad22ec3a8",
+    "name": "Empire Imperial #5",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "2c9e54cd2d88d3f797d4a8bc1bd89becc06a18d60cb08808c350f5f4ee6cb568",
+    "name": "Empire Imperial #6",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "109dea0ed40d874ef15981d65db266bb7778de55ebf8a15c6b89fb225e25f161",
+    "name": "Empire Imperial #7",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "9ab524a7be2a98222d144349446b5331ba0c8930d4f580ef3778bf0a5f0bd4df",
+    "name": "Empire Imperial #8",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a489af0a839f997e878480c9d0932d70a6c18b2faa5448096c30432e29ec54dc",
+    "name": "Empire Imperial #9",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c9a3dff53d10cb937c801263edf2977cee753465b75a261759d7c10b81d11100",
+    "name": "Empire Imperial #10",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "13650d2849c7d1fac47f1bc60f8387380e11f3cfec8704e257c18ef1089d0eef",
+    "name": "Empire Imperial #11",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "6e6b6de0eec39eab86dd4da21b3e684b17a790ec524a23646bf14243da7c8691",
+    "name": "Empire Imperial #12",
+    "faction": "Empire",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f1ad032d4d53d1a922b7120097791e3fbc4a5a4d8dbad7502fbd092f4bfedf73",
+    "name": "Empire Hutt #1",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "90ba75891cab77cdff26a372fe966570c1e59fc3a688dc5e346fd6a5ae093997",
+    "name": "Empire Hutt #2",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "f5b0f1971320a553c09584d59327b3eb3556cfa1509234b38bdb70378fff23ba",
+    "name": "Empire Hutt #3",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c66809995fe55586bbed62a31768c848b4b31d2b146028f6761d21616104dcbc",
+    "name": "Empire Hutt #4",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "eb4f2e5bc45c35a3ea19e9a062b3dbae63d271d117e2b14874b3547980d25ae9",
+    "name": "Empire Hutt #5",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "ba7f69e8fe1f19b1dea5b7eb0b158582b67ecfc2372d7dcf537eea243b32ebe0",
+    "name": "Empire Hutt #6",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b48d6baeb6a48a1de930aaf90d4b6f5c62026a855af93001702059fed5cbc555",
+    "name": "Empire Hutt #7",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "71bb8bacea30de1cbabf904b9a0df8ff239deabe599d48f881df24ef75be595c",
+    "name": "Empire Hutt #8",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "6d3795147359e309b683a77d3ec4711396bdb051716d0ebe21555ee1c4b1c115",
+    "name": "Empire Hutt #9",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f38494bca534c5404ef103485a159e2a706b36d1b2c90cbb0304fc42991904ce",
+    "name": "Empire Hutt #10",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "f90f740d74f29e593c2b96d6f019ea99ef2387830246d857a43f2abbb42576da",
+    "name": "Empire Hutt #11",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "be17c816c3e3ccc6c48e1cb7c18ce54b1d04d7fba3fe73d8ad429a15f490465d",
+    "name": "Empire Hutt #12",
+    "faction": "Empire",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "0de7015323306608d0d02089befff736e97c27820e7bcb15975b56659c309635",
+    "name": "Empire Smuggler #1",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "f9e046745b479ae8934a1bfbaef8031a8eb082cc051ccb58a1fc1ed036923b77",
+    "name": "Empire Smuggler #2",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "d0c62e74e6e621b0d28bfba3f7cf1c767e2f0c0298a55cc22c3ac25df3c75d26",
+    "name": "Empire Smuggler #3",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c1de138ea6ca35a8cd431c9d64729752b324133838a336ec5469219e7f0ff29c",
+    "name": "Empire Smuggler #4",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "99f6f32687e6c0ddc15fa63d92783f295257904b3c64135c6df2508aa53bf9b9",
+    "name": "Empire Smuggler #5",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "de9a4b54b32616bcab35e74dfc0d500185374cf2af67f8ab76a7bb728c37b4b8",
+    "name": "Empire Smuggler #6",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "e56a1a7503d57ad7dd2972edaf7c7475a54e3aab92565fbd2f864f10295e8c0d",
+    "name": "Empire Smuggler #7",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "4557cefec560d98064f74a7bec6aeba19887f8cf3806e6a2d30c8cae9129af96",
+    "name": "Empire Smuggler #8",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "d2ea01c79024456c0c28535f2636a9b69fe44d5a65aea201b03f7936808eb58c",
+    "name": "Empire Smuggler #9",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a414a8f4b555d80dd36b5d7b71a0f7dc51aad8602a27a3e20190d0ab5151e76d",
+    "name": "Empire Smuggler #10",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "28ecc5c71c36496a2c3f53cc6f92014e7204eb62fa8160025c0c5ee431688448",
+    "name": "Empire Smuggler #11",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "b44c5b5aac1a327ce2f0498710df117ad8a5164cee5b137a6993ff688a90dbe4",
+    "name": "Empire Smuggler #12",
+    "faction": "Empire",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c259e8c994012fe699ca2720203a3bcfa10e9dcecc3747d2489a9ce871bc82e0",
+    "name": "Rebels Jedi #1",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "59c8738b1f8482f70735cfafd6f62d02d01b0f7a62907b9639f21bfcbf30ed1c",
+    "name": "Rebels Jedi #2",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "662d44c0bf25d607afa42727d688345f315eece7b5f8ac462c84f7ca92f8507a",
+    "name": "Rebels Jedi #3",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "fcdb4c8af1f56b79076b62ab5382bb97366b63c8c92be4e14685c88045ec8833",
+    "name": "Rebels Jedi #4",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "c67128793af8f3668a105f24efd26663c395e453e3ac751490fbd68e313644e8",
+    "name": "Rebels Jedi #5",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a2b849b7a6ffcf9bc76418206306856b55bbbc5e5d212ae6a022a97ec6df053b",
+    "name": "Rebels Jedi #6",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c34ddfa1b4d8bbfa4585d64d4333d40579e7fbca611a54e83e2befa9476e481e",
+    "name": "Rebels Jedi #7",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "ba557032ae7003e9321c4b999d74077cdb40b715d051158a359446278eeed1ba",
+    "name": "Rebels Jedi #8",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "18da580718020a29421c983fd78fc9db4400675d373b4b66fa7353964bfaf212",
+    "name": "Rebels Jedi #9",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "055cbec347803d3280af4eb16c139f7c900e4dc6bae6bc1c32c3d4820fedfaad",
+    "name": "Rebels Jedi #10",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "a3ebaccec184293cb9f4de2633294d88f8c1ce851bff88a3a6da9abcab5176c6",
+    "name": "Rebels Jedi #11",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "1d0a3adc0b1d344cefe1a7798844aa3378cc7bfaae2bfe32b9b4d4f7ae03ea25",
+    "name": "Rebels Jedi #12",
+    "faction": "Rebels",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f4fd005f1f4336c8156a67a9d1af79dd423996ef1841709a2a4b12b6b505e7cb",
+    "name": "Rebels Sith #1",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "4d242ebacf646743c333497a4d066237b88c33f0b76b9299453ba7b9ab177749",
+    "name": "Rebels Sith #2",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "2bc84ddc8b279927a47f611086f9c56c397f8abcc022893149371d3e5d23c09f",
+    "name": "Rebels Sith #3",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "41af1b01be25d17e83f6e3db0b7b3f37e3e87dd9f2fefc95efaf285996ec766c",
+    "name": "Rebels Sith #4",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "40833d7049b9a582754e9a11b706a9e5cb51d43421eabcb8dcd8d9c269230307",
+    "name": "Rebels Sith #5",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "5974baa201c06c024572917ce8a37902dd7cc54851f10fbe7485674b032e88d6",
+    "name": "Rebels Sith #6",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "7bb26d37ed105aee4f8f2a03b9c347cc9987c56739300e250d5a134012fe658b",
+    "name": "Rebels Sith #7",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "b156365122c2956fc0d7b4bba5678f06dc8d225397fe9a89f7d5182f81b0b4c8",
+    "name": "Rebels Sith #8",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "32a516bf48cdde89b687464b5d6a7a1f9e17481080d6aa7f71b176e418903e0a",
+    "name": "Rebels Sith #9",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a512b8e5235d7645bc5dce698291ca2f20a4349e0b9962e54fa793ddedbc978d",
+    "name": "Rebels Sith #10",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "b4c9335fd05f9e934f5cfe80e7a47ff17e2d5096b86c37fd613082861cc19b6f",
+    "name": "Rebels Sith #11",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "b66fb9efbdca62a7479ba75be491c277cf961e365133e97399f8fd2b093fcf33",
+    "name": "Rebels Sith #12",
+    "faction": "Rebels",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f733b18bd6b90f90275dbdd34934081bc57f9f871ea672e736903310d6c1d0f1",
+    "name": "Rebels Rebel #1",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "bc9c5d44f04e76b55986bd0199f6af02aa08f0f05df53f40658ebda11f8242b6",
+    "name": "Rebels Rebel #2",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "00795c2d7fe7b61aaeb0351993ada4634430024d59fb3a396dbf76170e7d2c1f",
+    "name": "Rebels Rebel #3",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "d30b41d52d0f3eedd42fa6e9187be0d8be5ddcbbeeb6b0964aeddd2d2177c062",
+    "name": "Rebels Rebel #4",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "70a31925bebdbc8f55dd56c6a09cac5045653a9053f0667121e1de4220d8999b",
+    "name": "Rebels Rebel #5",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "282b6c9a254bbe0ec9f2d1265797ab0c78fff0b414650637d6e8eb3418dcf998",
+    "name": "Rebels Rebel #6",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "adb8fadd5c20c006041807f391bc969bbfff8729f5e611252686a2a6d8bdaae6",
+    "name": "Rebels Rebel #7",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "2605a54a3d0ddba4bb4ecbe395cf2d16d10f5aad43b03d9ad7392d636408d80e",
+    "name": "Rebels Rebel #8",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "7f8799c427623b7f54023a1f40035b14bb202f031cce749b4353a95be5e4e57f",
+    "name": "Rebels Rebel #9",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "7cd99ed458af32554a843e1727465e8846447633a1daa031ddb402f074dd8ca3",
+    "name": "Rebels Rebel #10",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "6482c8b7a5be35ff0ac3bbe333de8903e08aa3c8783788d3845c539bf4372a94",
+    "name": "Rebels Rebel #11",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4b9ac977df1f60b6de985bcbef23c1190f729208e1f9d242b275315b405e04bc",
+    "name": "Rebels Rebel #12",
+    "faction": "Rebels",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b49740f4e823c4eda48e53805af97c3faebfe6668cfd2fc6087eea59becea53b",
+    "name": "Rebels Imperial #1",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "90756f21760f44a7ef7334523288f485aadb6aaaa970d0a6b66186fd1c2638db",
+    "name": "Rebels Imperial #2",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a95b71185186b2c524ae28cab7174cb22c5f3c5ad383ac2f3e1bce9331f8e4a2",
+    "name": "Rebels Imperial #3",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "819f0386fe24ea38ef2eab6f06b3a69bf20fea22c3d661d1de6605a53f5321e2",
+    "name": "Rebels Imperial #4",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "688baccdbfbd60aa3495b70cda5016e62a29f2588020c4dd55c89e5e51fdbd9f",
+    "name": "Rebels Imperial #5",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "0d5b3f067151680a441096aad84f390719bff2a53d7be5f3a0d8c3f34d7eacfb",
+    "name": "Rebels Imperial #6",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "85b4a5889bf1901296e79a910ce6ec2f9b482745bbab9e785991f1887402a82b",
+    "name": "Rebels Imperial #7",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "baa6d0acf4227366d913f47840a5040ec9b4b1d0392781adc5bece679badb112",
+    "name": "Rebels Imperial #8",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "70a9f8f4db28319f26aed19f19263936dd3beba9bbbd53fcae1ea9cec3934b8e",
+    "name": "Rebels Imperial #9",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f529b572ebce0a1010417c0fcb0ae5c29d4dd4578c34b275db714edef13e608d",
+    "name": "Rebels Imperial #10",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "30de383b3347ac918897f9bf2dc42d9de7ac448257e9d0b4ecab2108183295c2",
+    "name": "Rebels Imperial #11",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "c44a02bcd8c70cef66f0e747a9e410495db3587cbbd8d6fb769dc97efa0210fb",
+    "name": "Rebels Imperial #12",
+    "faction": "Rebels",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "7c2afb1ef19ad3a3fc4c3eed5784b74255f1479e0acad5cca788b75e2fc2c2ce",
+    "name": "Rebels Hutt #1",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "42a056eacf769dd0b4eb6ed5cbb0acd72e99994e2161971ab0161b595d90f6db",
+    "name": "Rebels Hutt #2",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "d12d6f3b31b5a181885c3fede828efde32d0160bd8331ec7d8ec89b3dc33f5fb",
+    "name": "Rebels Hutt #3",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "0462cc08885a98655cfec3361cf2c113c0e48eddee756c77b1273065a0a10064",
+    "name": "Rebels Hutt #4",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "dc48e3fb360ac58d019e8f798c163c73f9c279663319b75bc6b2d646164b43ff",
+    "name": "Rebels Hutt #5",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "19754aefb8739debfb011802a1d734a9e93648de0694a7055e08c2a48a88d2c6",
+    "name": "Rebels Hutt #6",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "984508bafa5104dfcffcf3ff5916fbd132be26a89b1edcd5373ffceb09f2911e",
+    "name": "Rebels Hutt #7",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "906cbfec94556708305800aa2cd06f79d39596d6ea40396a8182a4f6b64244a4",
+    "name": "Rebels Hutt #8",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "09fbd467e7236fb357f1ac8dc0ce22917fac9d9b77784ba96265aec37d17e534",
+    "name": "Rebels Hutt #9",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "e8bc26fcc73bd2ebcff10d3cd026e6d6cd75aad232e383fa0b37c67ccd95f4f2",
+    "name": "Rebels Hutt #10",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "6cfddcb304b3ef4a2a07a89a6bde1150454d004dfc35e8ecfda4d8b57fe2febe",
+    "name": "Rebels Hutt #11",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "02b6f09810c4551d65a53ea0037f4c33c378fd334fc3944c4d020895c2635cdb",
+    "name": "Rebels Hutt #12",
+    "faction": "Rebels",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "94565d213b2d58876c786d931b555b7fd380826c58ab222a5168eb87b40cfd84",
+    "name": "Rebels Smuggler #1",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "31c5765e81bd527c4a9de49a4d8e414d630933f6aac45c4a0f8fcb6dc39d78f1",
+    "name": "Rebels Smuggler #2",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "c3d2c80b57e5e3fdc59b17dfadc1eeb7e89d6c6107ef7af4ce784ba92c2b57cb",
+    "name": "Rebels Smuggler #3",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "3c9623ffb374f1cbf081651592156d20ceafbccde3212c246436d6a84cb509e8",
+    "name": "Rebels Smuggler #4",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "57fe12f8dd48559bcc2c95289872d8d762f7b9c6f767dae3c3e8459d3fc2f7c4",
+    "name": "Rebels Smuggler #5",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "25fca1f2e0a57e55ab0868441cf878ad6e8c0bf7b4b3baa3f81946b87ccea50b",
+    "name": "Rebels Smuggler #6",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "69618012adfdb7af513d1a96b348e7eb6e50ee0b22628e91b85941975d52873c",
+    "name": "Rebels Smuggler #7",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "7b93f304f29359b6b0c936d4dd12cc3c3fc76d4457f8f7033e5bd3e25af2065f",
+    "name": "Rebels Smuggler #8",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "3d7be610ab8e57da6bcd5da77ce8e50672d652a95230bd3a012e3368a4c087bf",
+    "name": "Rebels Smuggler #9",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "33654309f8b916b9b2a0087e4fd553257d3bd8976816ec231dc285397620613e",
+    "name": "Rebels Smuggler #10",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "6984b57df20404b65e0ece8de2594c7f85f3d8b1a7a642e75f1442be1d1573b0",
+    "name": "Rebels Smuggler #11",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "5e713018f514080290edb5af6e6a33f6bd8500a655486cc15879d39b644d8df2",
+    "name": "Rebels Smuggler #12",
+    "faction": "Rebels",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b375b173a3e32473cc626bb3d0842414d4dfbb269ec76c7e40a1a5c710bc0419",
+    "name": "Wookies Jedi #1",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "bdb3cbcc3556e78759346a09274abc4261bacee4039937f3aa334fb16a6c56e0",
+    "name": "Wookies Jedi #2",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "70332b1f6d7f279038144a2602d9da5ced8d69c04cae294cfee3184c811e5192",
+    "name": "Wookies Jedi #3",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "5eb7f66de4ef20b5b7fcf81f4f028193c8be86cd32e1413ec11bd134f53b581c",
+    "name": "Wookies Jedi #4",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "d5d0a59464a9f246ea2677910e0de0a80f5bc835f4f7fcfc8453c9c985c71d6e",
+    "name": "Wookies Jedi #5",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "aee881a613953b2cb0c5a88a521b4c7634f755613d5f7c22e2284fc8c5a85e91",
+    "name": "Wookies Jedi #6",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f3b24d1dba26304e39144aa95d1940deb869affffcf299aa04957fc903eeda14",
+    "name": "Wookies Jedi #7",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "543e8292cc85ac40adf02694fe629c27437b06cb2216812d92775c91fa1649a2",
+    "name": "Wookies Jedi #8",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "f4435518b12f195ed7148add1f8adffedeecede1a2fa030b4bcf80ac0bf23298",
+    "name": "Wookies Jedi #9",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "bfb7fbcd4dc08fffe6199529adf7185cbf1c410ea1a6a333b6408acc657abad4",
+    "name": "Wookies Jedi #10",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "81cf76acba788a4aa317bf1ec639ecc16139df370b155845d8c67727a64c98f7",
+    "name": "Wookies Jedi #11",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a85ebd46d4d4b7193dbbcdba449bd551d3a188b046647db1e000e535e46c3b1f",
+    "name": "Wookies Jedi #12",
+    "faction": "Wookies",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "0890889e7dda55d0fde5a485cd45b0045a78ef6b455fa13b04c6e84dcaea818a",
+    "name": "Wookies Sith #1",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "5f40a429169c687235d4a900dbef9d6c1716a5e5ac7ad64dc2df387616db30ed",
+    "name": "Wookies Sith #2",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "25b9719661da39b5d9b3ff5c91065a49415b2491223bc5fad77890fbc4ae09fa",
+    "name": "Wookies Sith #3",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "df0fe1739a1b050412714fd41d6658c2f479c4aae4c2ff13d0fac685a1a85136",
+    "name": "Wookies Sith #4",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "da22cb50f929760f24b1cfe3987de94f0558125adca05b50115f1ccb0a737869",
+    "name": "Wookies Sith #5",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "5f2cf00f9d15226404a7c97475699e847dc3164f243df754de92db4dcedc1a82",
+    "name": "Wookies Sith #6",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f06b9a18d858da191efdf8b7a82d66d338d3d52c82dea4c2abd218abeb02a289",
+    "name": "Wookies Sith #7",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "7c755aee0879e7094e84786d577a19b26a6290288ef88bc9f9838d44f9d118b3",
+    "name": "Wookies Sith #8",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "df8ab467283a956eca6de3eff6897f45b33c09fbb0551606a69b5ee73df42fbf",
+    "name": "Wookies Sith #9",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "870f864ac32fd3c3e57f760e547debbde9876d82f30ada0b26820a2400596784",
+    "name": "Wookies Sith #10",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "4ff1a1e0de5f5a80963d47cf1bfb94b376def4401aa1c6395c9217cd0e73861f",
+    "name": "Wookies Sith #11",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4345caf204aa304829bdd5aed074bac464924bf3765e33b5778b82fe7606407e",
+    "name": "Wookies Sith #12",
+    "faction": "Wookies",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "62b51e92f1993b53699e09cd0b6ff4859657586587d555e4d83ea0fac0e5bb4e",
+    "name": "Wookies Rebel #1",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "1143323a2fae94743a9427ad2801a50a7b839bf4880573077dcfa55b7280ea68",
+    "name": "Wookies Rebel #2",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "8fb682e555204d1738b910b446de0098a16455aa19c946862ee5dab7a7fbf96d",
+    "name": "Wookies Rebel #3",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "37d1f5911e6042075b53e35622be090933491e520b1b5f81cfc6378085f18f5c",
+    "name": "Wookies Rebel #4",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "d7bfc2aa8164e7b013fabeb5c463c8814c00a19d374ab5a83a429590d076b7dd",
+    "name": "Wookies Rebel #5",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "7d49a2a6f54726e662b47c7fc30faddc524edbe25d15dd96ad0ccc8b1f6120c9",
+    "name": "Wookies Rebel #6",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "18ebad87a46498ad21753fa3b52cdf2849dcb7b3563a1c3096967bfab9653f0f",
+    "name": "Wookies Rebel #7",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "fed1144539f5766286aa831e61800659d308e3245d54987d1dcfc884fbc44539",
+    "name": "Wookies Rebel #8",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "56a0e43cece0e9a8b3e918376f0e19d3336387187e88f5271360ff01d189eb44",
+    "name": "Wookies Rebel #9",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "3b02f1bd0b06019288198086b34fb86021c09dc81f8377a33266bdd944cae834",
+    "name": "Wookies Rebel #10",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "47ca052522fa1c7128a3c74ff1f64f1c27958fc110b3dc319d4b72e05961053a",
+    "name": "Wookies Rebel #11",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4fb386c92d22bbf7dec70815c5b1a1707d3630408a81280c7696d473f226c620",
+    "name": "Wookies Rebel #12",
+    "faction": "Wookies",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "bb3432e50f1ed7d4ed033d6cfcf8f75f3c04ea44254884aece589d76fe5ca325",
+    "name": "Wookies Imperial #1",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "4244a55bb88c0aaf16f5991b26812aa1c3723df050797abb7949440f85b2989d",
+    "name": "Wookies Imperial #2",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "ae21b396a23bf35f447f88f5a2545cec8b65f8bdc8d57a5d099550f205aebca4",
+    "name": "Wookies Imperial #3",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "caad34ab651c54d5e17bf83c2cec14b169e1bcbad6d5b4b27615b7c7e41581f5",
+    "name": "Wookies Imperial #4",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "47057407a5dd22a07e288a66b1c5002981f428aaa53ea794ac72792ccf2e0f64",
+    "name": "Wookies Imperial #5",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "48cb73f5139f7b2ce54310ae2c16ba7e6646f2e9dd92611f76e8bc7b1a70c0a7",
+    "name": "Wookies Imperial #6",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "7c34a7d35a32c4151b70a1d13198c1147703c976f88dcd3d24a23a0ab9fb2dac",
+    "name": "Wookies Imperial #7",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "863441e008903592bcdbb192f07247e7d28fef4d587aa35ac084d18bcd1c1c0c",
+    "name": "Wookies Imperial #8",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "65edeef2143e24d0a969f5c208f429d369c7098c4b12ef9d10cefc28629ea2a1",
+    "name": "Wookies Imperial #9",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b7818a288ce83f0a3c5c52eb961effb88ae4f90d97379c701c8ddc87b7215969",
+    "name": "Wookies Imperial #10",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "46c5e337a08218da10ebf93064999c3807e1e03ad6361417963d242d95072fdf",
+    "name": "Wookies Imperial #11",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "de8d88addf6954932ec6ac63ded1bef5882d30a26cb8c8e8d073d4361333dbfb",
+    "name": "Wookies Imperial #12",
+    "faction": "Wookies",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a9caf85866723532500fcb7a6ccf49af51b70d5507cd75bb0fa03fdf1b0bd7ff",
+    "name": "Wookies Hutt #1",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "ce0d9b1fe4c0432de0af8c649f91df578f4ff428a6985248b8f12bc7f6895dc8",
+    "name": "Wookies Hutt #2",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "f101f6efac9980517118d61c39fe052532f5953d54642a95816949906549dee4",
+    "name": "Wookies Hutt #3",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "0c7f15e1bb8e1c0c553657a0f1e535fb88836eb7d41c8bb7144c22244a579101",
+    "name": "Wookies Hutt #4",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3c8593bbfc6e82d9a28fe0ec89bd112b3cc4ad25447bfa6bfe38eb0d7189ee83",
+    "name": "Wookies Hutt #5",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "7b100bbf8e0d032bcbdbbe0988ef63a1526a1020149018f5c1002a0b84107067",
+    "name": "Wookies Hutt #6",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "de78f416a99be03039dc0f1041b9e74e6609984e0c4774471315054e6f9ad334",
+    "name": "Wookies Hutt #7",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3ec8156fe8bcc3c1d5a600c63abc28ce61e3f1a495fae91cafb7b075f37cb332",
+    "name": "Wookies Hutt #8",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "68338b64278e18cae1948494702e4ff154725dd8a2efb06bcd50b45e20e084fc",
+    "name": "Wookies Hutt #9",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "ab2cd17a290eb42364a5e8f6ad036c6c2453a9978a868514bee7bc68a88d2279",
+    "name": "Wookies Hutt #10",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "4b710e64ca8a9e03bb6a4cfe916c4b2c5428f74f63515c726934ec95ec39dee5",
+    "name": "Wookies Hutt #11",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "0fcdd50f94a3e40a8735129218eb5e4338821701a24510891e9ed055b7fdcc9d",
+    "name": "Wookies Hutt #12",
+    "faction": "Wookies",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "3025d3ce7753237f09e3e5339a1f6b671e7a5074aa52aaec670bf5ccd847b2bc",
+    "name": "Wookies Smuggler #1",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "04f5e6267ce5fcf498f571612c3b75f003b5772e3b86f1732e9bd28c14ffd202",
+    "name": "Wookies Smuggler #2",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4d98b21e7d44ca76e386ef3c920e792551e2ad45fab655e8c72c0d9a2437be92",
+    "name": "Wookies Smuggler #3",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "93796be5d60e1d4e2ec9380876feefed4540699a076d9630f15a9c2495e35be5",
+    "name": "Wookies Smuggler #4",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "0157af478d0fb1e3d2c8e5a562f0dc385f1a84ed88335f848a16bb0d0159339e",
+    "name": "Wookies Smuggler #5",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "6ca4135e3ea3a6a10b12bb9455ee113625d9e2778524987ee8f338b6537d4101",
+    "name": "Wookies Smuggler #6",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "4cfeb01e8702a5da7f46a2dfec99dc051ea6616d69973a9c12757021e8f10d7c",
+    "name": "Wookies Smuggler #7",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "bd24b190cc0b81f304201dcefc2e7b319b52537ddc93c848ccaa7fbf60e89e1b",
+    "name": "Wookies Smuggler #8",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "2f02ecca6e8fd604522892f98fb9f430466b355534e80d7d5f7ae3d69ec9c9cf",
+    "name": "Wookies Smuggler #9",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "04a9a553907528db3d172dd94bb1586c6a1a20a96bb1addecb2ab57a06d4624c",
+    "name": "Wookies Smuggler #10",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "d47942973ba45c93e60f3f7fb665acbacbedbbd160b39e3bc12e5d3ccd8a598f",
+    "name": "Wookies Smuggler #11",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4053c7de47fff3c35a1fcef9534e10ddc8944bf96ef8e6c744fb7b60c76eaa8a",
+    "name": "Wookies Smuggler #12",
+    "faction": "Wookies",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "00883ba8a44c7c8171ee860c1f1c3aaf1ec22e145e1781a354d1d364bb33a225",
+    "name": "Care Bears Jedi #1",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "7d3e06b8ae8da11e1781e85304fbca78107032b1c3e6acb2fee038bbe6d72288",
+    "name": "Care Bears Jedi #2",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "c257d3916d9f616beed6a2ecaa72dc8b1bf5e878d9888541e13dea1ef7ab67d9",
+    "name": "Care Bears Jedi #3",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "4db85ce4362506d6974ed3c044ba3549675ddd3d81313afd67e9da3452b6d351",
+    "name": "Care Bears Jedi #4",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "35b9ca763ce6afe08b4176f73fe4eaf11012b3610fc45c864d772c6bc00a08a8",
+    "name": "Care Bears Jedi #5",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "dc878e303fef73595a4d85fc312bf83a9c6fe8f0608abc53cbad0cf5e97bc28c",
+    "name": "Care Bears Jedi #6",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "48588675aa7d7a157cb033d58f70bfc0ebe927fe346c734f59aa09e5b17f8f6d",
+    "name": "Care Bears Jedi #7",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "e796ce88fb6c0051d4a43960f304305449135b91c56b48277bac640a1df28030",
+    "name": "Care Bears Jedi #8",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "6dc00f95d8ad0e9e3cc2079c8b56fec4c40e073d8b5765f454b0f634fc059200",
+    "name": "Care Bears Jedi #9",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c96af616523be667e00e05ece8b978a1cc80af758761ca8d20f3c37864c30e10",
+    "name": "Care Bears Jedi #10",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "787a3ad1a86c37f1524a4f6dc11bd8cb989e2ece881bc454db827f984d1fbf8c",
+    "name": "Care Bears Jedi #11",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "1e7981bbf4106874ae4341867384a1303487e17223c7db1478e5c4bbbb65270b",
+    "name": "Care Bears Jedi #12",
+    "faction": "Care Bears",
+    "type": "Jedi",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "2e784b5d608ef9e81c5b40b214b803033624ac0afbf1979cba36b654f6ab40b3",
+    "name": "Care Bears Sith #1",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "64c97bad3cef6ac95663ede3244789e4a4d727ecc8adcafdeaf82a691c827458",
+    "name": "Care Bears Sith #2",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "5c8b0915b0bb29ae224a243e0830dc361fc5e23598e1fe112aa21d0653824bdf",
+    "name": "Care Bears Sith #3",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "7b84ed3a01e89a01001f11807e14a4bc105a7118f7e715023455a1ceb6a7403f",
+    "name": "Care Bears Sith #4",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "822511e8baeb3ab8d4d9584e1146fc200aa2abdce50f3007bdea1e4321576528",
+    "name": "Care Bears Sith #5",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "8c427be4e429627e1fa1b52652a3d027b0cb934def0400d5ab67133c08bfe7c4",
+    "name": "Care Bears Sith #6",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a01077c3d0e6a46336dbbc13c86000aec822ff83337f4133035569d70cab2a61",
+    "name": "Care Bears Sith #7",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "a7ad48d149962e897b027295436277fb79fea28fee54c35d41a5510733afc960",
+    "name": "Care Bears Sith #8",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a77e57e7b0da107994d5e6714f8234c2c1e4aafde1923873a2b8672bce4c62e6",
+    "name": "Care Bears Sith #9",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "8fead51619793f2d1351965ddd9b7d58eba9ea305e6e6a79f959abb7ca7958b0",
+    "name": "Care Bears Sith #10",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3c1985b37aa805e6d54d8368cbf103f7ec7379299e1608ddb68079ef63620ccf",
+    "name": "Care Bears Sith #11",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "27a5ca20c81d7569517dbe8034dfb55abef261f7842ff34f0a752fbc674e3bc9",
+    "name": "Care Bears Sith #12",
+    "faction": "Care Bears",
+    "type": "Sith",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "a8cc91ef0d01feb3c777ed6603974200be029b305cfb534995d90a2493fa9c3e",
+    "name": "Care Bears Rebel #1",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "8665b979171d0f85b920a07cf4bc2b3e1d84f7b7462767eee46ae37a3f39ba5d",
+    "name": "Care Bears Rebel #2",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "10238dba3ed83914325c16b46f05b05d1157542eeb2f860507d98349fdde99c5",
+    "name": "Care Bears Rebel #3",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "10fc1aac40204823d55487abc9b5b9441ed80a8b1ca419f4326d5734d632ceb8",
+    "name": "Care Bears Rebel #4",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "464c0dccf146872396eae7365e448651d7a1641c2c91e86a9e2cd80feca27dbe",
+    "name": "Care Bears Rebel #5",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a18052c6c337d27c9836528556a32f70a96fad3f438f640ed6adeb1bc482021c",
+    "name": "Care Bears Rebel #6",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "c979191d5402b3a6d0b72cba905c0cdf742414fab332d6ed3563e74b7047a9a6",
+    "name": "Care Bears Rebel #7",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "e62ebf5ecc481449e602bb4caed1362f1a8a65acb74f5c71faae8961700caa2d",
+    "name": "Care Bears Rebel #8",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "6d37f74b76d2349cd21265c7305989ad730951e86f14015e589e06d8ba93dea8",
+    "name": "Care Bears Rebel #9",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "165c9ed3b758420e3ab6f62f51989d8f35344e231cd38eef0ba7fe92e3676cb4",
+    "name": "Care Bears Rebel #10",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "2c0df78675a8678f91879b0b43a92ab660ba0b7b7f47757efb6d8a615fb122fd",
+    "name": "Care Bears Rebel #11",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "4dcf661d69c9b55c3bff3c56ab23c44f439e6d38892bd4367a23d78a03d9d869",
+    "name": "Care Bears Rebel #12",
+    "faction": "Care Bears",
+    "type": "Rebel",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "6a054a81207f51bb83be5f13d1cfe848176c02b2b722129448741dd8050a9f5b",
+    "name": "Care Bears Imperial #1",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "f9bbd17dd309c30490a07103297df974fcc7dfe6ca7b069dfe48ba5c4ff657f1",
+    "name": "Care Bears Imperial #2",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "bba6f2deaa899ceee151c9f4768c66b6baeab79dd271102248d8de706f3945fe",
+    "name": "Care Bears Imperial #3",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "51bbd78aa5df9a9257dcb268d87a3db35719230c4b5bcf735ba206bf101809d3",
+    "name": "Care Bears Imperial #4",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "9fac09f61c73273de7e185ec36272e61ff2a9674c2fb87cea4fb712eb2d11dcd",
+    "name": "Care Bears Imperial #5",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "2c4f32e39fb6bebfdba47bd6696920e1ef6acc45b555d3a07b74ed0bacd21958",
+    "name": "Care Bears Imperial #6",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "d199cf3be7c3b31c1812ffbd049cff9000960717b1d0b8c55e43ec881f4383b2",
+    "name": "Care Bears Imperial #7",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "1d07bfa6f3439de0155cebb5939980418f42a6be1b7f056339dcdfa824dbcc2a",
+    "name": "Care Bears Imperial #8",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "c29c30504a7faafe52cf35b3bed7ea2ac5daa56bdff49a6b6bd9a5ffc98e65e3",
+    "name": "Care Bears Imperial #9",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "0e51ccf3e4745f2a66cfd35671c0cf0b970728401d44adc412143648aafd5d95",
+    "name": "Care Bears Imperial #10",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3f61bfbacd1e6d59ad1377a6f60bbba59fc108c539cb3ea5cff54d00d738a11b",
+    "name": "Care Bears Imperial #11",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "e7403a7645105725f58f70bf9f4de59632d7104c4cebe6d6038aeaa5cb5c72b8",
+    "name": "Care Bears Imperial #12",
+    "faction": "Care Bears",
+    "type": "Imperial",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "959646fed67b375d528ee50422031c2abf0b538e5b1f4163a087bb896daea48c",
+    "name": "Care Bears Hutt #1",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "cce1d0640c1970d361fead0b3b6c1c7ea9f6d44d592fec21f7c4442dcc0aee4d",
+    "name": "Care Bears Hutt #2",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "e1790fdaff04fa20b82a0813cbd545e307717fd5186fe1e8655aa8d2885857b6",
+    "name": "Care Bears Hutt #3",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "f0216609e3e42681598974c2c86756a6ff52f5fbe61fc327062701f977c05c9b",
+    "name": "Care Bears Hutt #4",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3e8f71a95bae02bd199f59cbf97cdb6ba3c6baa52b1951b7cb35b039945cbca6",
+    "name": "Care Bears Hutt #5",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "8539d7668dc0e3ca5a7002f83aed5dccb51f0dd46d257464ea72a16460543014",
+    "name": "Care Bears Hutt #6",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "e3d34c88878041aebfc8d6e44ac7f9826d14be5cc31c20dc78262d484370dca1",
+    "name": "Care Bears Hutt #7",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "ec58a4ad1fcfbd46f41dc7949bb3cef47c7f4447673594a25b08b4b489cf965b",
+    "name": "Care Bears Hutt #8",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "22c933a990f967538c88d12b96754469fb2345dd6272a383c6a8a03484fb9031",
+    "name": "Care Bears Hutt #9",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "81ca0431561965d3217f41c6cd3ff942f50b38fd337231a5e4e4e8cb0f7d9aff",
+    "name": "Care Bears Hutt #10",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "6ab9c1763fd46796e36ee39748ac9137cc78f12d1580f43acc2f76f1081a4b47",
+    "name": "Care Bears Hutt #11",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "1aaa0a76afb5e6e6a4b8342e982476460f5f16b9b23a0f249054fa2b357d657a",
+    "name": "Care Bears Hutt #12",
+    "faction": "Care Bears",
+    "type": "Hutt",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "8ac629c1ee07e496e3b565e36637b63904a04e58cdf79b961afb5663928b2015",
+    "name": "Care Bears Smuggler #1",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "56642e0c9c13959bebf4019bf9883d5846d285122bc3b43fb415da8871da159a",
+    "name": "Care Bears Smuggler #2",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "e63b7381d10e651f7cf7fdc0078c0e67c3442f6e6fc45041992d5b88e8c449b9",
+    "name": "Care Bears Smuggler #3",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Light"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "4ad5a43390e174dd32c78ffb26ec505d71659e8a7e960ba1c011894e7610c90f",
+    "name": "Care Bears Smuggler #4",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "7f0fbf3f42fcf96d6839855df1a67d4fcd0b722cda6dffd44aadf6f834b5ca68",
+    "name": "Care Bears Smuggler #5",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "a99a940ddc491a432a7f176d6605ccfe56b069cde310828dfdd73d4bc9e7f5fa",
+    "name": "Care Bears Smuggler #6",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Dark"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "b39114c362a39658ee8fd68a5f21a7ac86c1ff433a86ecf0a26b6c85b92c7090",
+    "name": "Care Bears Smuggler #7",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "b77b45ad445c3512fcf9a86a8ff64bbcc6f9f02adcf58be8da663c350ec3185e",
+    "name": "Care Bears Smuggler #8",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "5ee0f73d1da48467515107772ff4a9d7dbddf17936b080093252866903f62f7b",
+    "name": "Care Bears Smuggler #9",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Blaster"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  },
+  {
+    "id": "23f1b8246ec11d3538150ac15ea0bb041cb88292582959ff17942d98e820351b",
+    "name": "Care Bears Smuggler #10",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this enters, draw a card."
+  },
+  {
+    "id": "3f322caf93acc12dcb83e4048260ce6dc35c0f0b9e1059878488f0a91d8e92ef",
+    "name": "Care Bears Smuggler #11",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "When this is discarded, draw a card."
+  },
+  {
+    "id": "9a74e1da6c5f92208c89104414b93534d87f134d6c8e890b7f9573da1b9e6bc2",
+    "name": "Care Bears Smuggler #12",
+    "faction": "Care Bears",
+    "type": "Smuggler",
+    "icons": [
+      "Yuuzan Vong"
+    ],
+    "text": "If your opponent plays more icons than you this turn, discard their last played card."
+  }
+]

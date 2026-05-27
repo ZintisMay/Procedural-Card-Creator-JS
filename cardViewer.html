@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Viewer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 0;
+      padding: 1.5rem;
+      background: #f4f4f4;
+      color: #222;
+    }
+
+    h1 {
+      margin: 0 0 1.25rem;
+      font-size: 1.4rem;
+      font-weight: 600;
+    }
+
+    .search-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .search-bar label {
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .search-bar input {
+      flex: 1;
+      min-width: 200px;
+      padding: 0.45rem 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 1rem;
+      background: #fff;
+    }
+
+    .search-bar input:focus {
+      outline: 2px solid #7aacdf;
+      border-color: transparent;
+    }
+
+    .search-bar button {
+      padding: 0.45rem 1.1rem;
+      border: 1px solid #bbb;
+      border-radius: 4px;
+      background: #fff;
+      font-size: 1rem;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .search-bar button:hover {
+      background: #e8e8e8;
+    }
+
+    .result-count {
+      font-size: 0.875rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+
+    .card-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .card {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1rem 1.1rem;
+      flex: 1 1 calc(25% - 0.75rem);
+      min-width: 210px;
+      max-width: 340px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    }
+
+    .card-name {
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin: 0 0 0.2rem;
+    }
+
+    .card-type {
+      font-size: 0.8rem;
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin: 0 0 0.2rem;
+    }
+
+    .card-faction {
+      font-size: 0.8rem;
+      color: #999;
+      font-style: italic;
+      margin: 0 0 0.65rem;
+    }
+
+    .card-icons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .icon-tag {
+      background: #eef2ff;
+      border: 1px solid #c7d2fe;
+      border-radius: 999px;
+      padding: 0.1rem 0.55rem;
+      font-size: 0.78rem;
+      color: #3730a3;
+    }
+
+    .card-text {
+      font-size: 0.9rem;
+      line-height: 1.55;
+      color: #333;
+      margin: 0;
+      border-top: 1px solid #f0f0f0;
+      padding-top: 0.65rem;
+    }
+
+    .card-id {
+      font-size: 0.7rem;
+      color: #bbb;
+      font-family: monospace;
+      margin: 0;
+      word-break: break-all;
+      padding-top: 0.5rem;
+    }
+
+    .no-results {
+      color: #888;
+      font-style: italic;
+      padding: 0.5rem 0;
+    }
+
+    .error {
+      color: #b91c1c;
+      background: #fef2f2;
+      border: 1px solid #fca5a5;
+      border-radius: 6px;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+    }
+
+    .error code {
+      background: #fee2e2;
+      padding: 0.1rem 0.3rem;
+      border-radius: 3px;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Card Viewer</h1>
+
+  <div class="search-bar">
+    <label for="search">Search cards:</label>
+    <input
+      type="text"
+      id="search"
+      placeholder="Search by name, type, icon, or text…"
+      autocomplete="off"
+    >
+    <button id="clear-btn" type="button">Clear</button>
+  </div>
+
+  <p class="result-count" id="result-count"></p>
+  <div class="card-gallery" id="gallery"></div>
+
+  <script>
+    let allCards = [];
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function renderCards(cards) {
+      const gallery = document.getElementById('gallery');
+      const count = document.getElementById('result-count');
+
+      count.textContent = cards.length === allCards.length
+        ? `${allCards.length} card${allCards.length !== 1 ? 's' : ''}`
+        : `${cards.length} of ${allCards.length} card${allCards.length !== 1 ? 's' : ''}`;
+
+      if (cards.length === 0) {
+        gallery.innerHTML = '<p class="no-results">No cards match your search.</p>';
+        return;
+      }
+
+      gallery.innerHTML = cards.map(card => `
+        <div class="card">
+          <p class="card-name">${escapeHtml(card.name)}</p>
+          <p class="card-type">${escapeHtml(card.type)}</p>
+          ${card.faction ? `<p class="card-faction">${escapeHtml(card.faction)}</p>` : ''}
+          <div class="card-icons">
+            ${(card.icons || []).map(icon => `<span class="icon-tag">${escapeHtml(icon)}</span>`).join('')}
+          </div>
+          <p class="card-text">${escapeHtml(card.text)}</p>
+          ${card.id ? `<p class="card-id">${escapeHtml(card.id)}</p>` : ''}
+        </div>
+      `).join('');
+    }
+
+    function filterCards(query) {
+      const q = query.toLowerCase().trim();
+      if (!q) return allCards;
+      return allCards.filter(card => {
+        const searchable = [card.name, card.faction, card.type, card.text, ...(card.icons || [])];
+        return searchable.some(f => f && f.toLowerCase().includes(q));
+      });
+    }
+
+    const searchInput = document.getElementById('search');
+    const clearBtn = document.getElementById('clear-btn');
+
+    searchInput.addEventListener('input', () => {
+      renderCards(filterCards(searchInput.value));
+    });
+
+    clearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      renderCards(allCards);
+      searchInput.focus();
+    });
+
+    fetch('cards.json')
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        allCards = Array.isArray(data) ? data : [];
+        renderCards(allCards);
+      })
+      .catch(() => {
+        document.getElementById('result-count').textContent = '';
+        document.getElementById('gallery').innerHTML = `
+          <div class="error">
+            Could not load <strong>cards.json</strong>. Run <code>node cardCreator.js</code> first to generate it, then open this page via a local server:<br><br>
+            &bull; VS Code: <em>Live Server</em> extension → right-click <code>cardViewer.html</code> → Open with Live Server<br>
+            &bull; Terminal: <code>npx serve .</code> then visit the URL shown
+          </div>`;
+      });
+  </script>
+</body>
+</html>

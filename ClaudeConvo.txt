@@ -1,0 +1,50 @@
+Are you familiar with the TCG called altered question mark?3:29 AMClaude responded: I'm not immediately certain what you're referring to with "altered question mark" as a TCG name.I'm not immediately certain what you're referring to with "altered question mark" as a TCG name. Could you give me a bit more context? Is that the exact name, or might it be slightly different? For instance, are you thinking of a specific game mechanic, a set name, or perhaps a lesser-known card game? That'd help me point you in the right...You said: There is a TCG called Altered.There is a TCG called Altered. You're on Kickstarter recently. Last few years.3:30 AMClaude responded: Yes!Searched the webSearched the webYes! I'm familiar with it now. Altered is a TCG made by Equinox Studios (a French studio), and it's quite an interesting game. Here are the highlights:
+
+It shattered the crowdfunding record for a TCG on Kickstarter with its debut campaign in 2023, pulling in more than €6.2 million from about 15,000 backers. BoardGameWire
+The game aimed to stand out from competitors like Magic: The Gathering through its focus on exploration and bringing heroes together, rather than battles between characters and monsters. BoardGameWire
+One of its most unique selling points: each card has digital ownership associated with it. Once you own a card digitally, you could order unlimited copies from the printer. It also features unique cards with one-of-a-kind stats — no other card in the world with the exact same abilities — and cards can be sold and traded digitally in a worldwide online marketplace. Substack
+The game is distributed by Asmodee, so it's available at local game stores. ComicBook.com
+
+That said, it's had a mixed journey since launch. The print-on-demand and digital marketplace innovations were beset by heavy delays and only went live in open-beta form relatively recently, putting the game at a disadvantage competing in a crowded TCG space. BoardGameWire
+Are you looking to get into it, or do you have specific questions about the game?You said: Are there any resources that would provide insight into how they algorithmically created unique cards and also kept track of which ones had been created?Are there any resources that would provide insight into how they algorithmically created unique cards and also kept track of which ones had been created?3:31 AMClaude responded: Yes — Equinox actually published a detailed blog post written by their lead game designer that explains the whole system.Searched the webSearched the webYes — Equinox actually published a detailed blog post written by their lead game designer that explains the whole system. Here's a summary of what they describe:
+The primary resource: The article "Unique Cards Explained" on altered.gg is the best deep-dive available. It's written by Jacques Ernoult, the game designer who built the system.
+
+How the generation works — two-tool pipeline:
+A first tool called "The Generator" spits out millions upon millions of cards semi-randomly derived from each character's base characteristics (statistics, costs, and abilities) with few boundaries. The goal is to be as broad as possible to get as many candidates before narrowing them down. Altered TCG
+A second tool, "The Filter," is an evaluation algorithm that rates the generated cards. It mostly filters out "bad" designs rather than selecting "good" ones, and is set with many parameters including: Rational Game Design (assigning a weight to stats and abilities out of a total budget per card), faction-specific traits (e.g. certain stats are more likely for certain factions), prevention of broken ability interactions, and blocking combinations that are legal but too powerful. Altered TCG
+Then human review:
+For each family of cards, a team of game designers and professional TCG players manually rate hundreds of cards that came out of The Filter. When cards are considered bad designs, they analyze why and update The Filter to prevent them from being generated again — with the difficulty being that new Filter rules can also prevent good cards from being generated, requiring lots of testing. Altered TCG
+Tracking uniqueness:
+Every card comes with a unique QR code, allowing players to register their cards on the Altered digital app. In the case where a QR code doesn't work, players provide a picture of the QR code so Equinox can access the card's history and check who claimed it and when. So the tracking is handled via a centralized database tied to each card's QR code at the point of printing. GamelandiaAltered TCG
+
+The blog post is about an 8-minute read and is surprisingly transparent for a game company. It doesn't go into the low-level code, but it gives a solid conceptual picture of the generator/filter architecture and the human-in-the-loop review process.You said: Are there any resources which would have the code which creates the cards available?Are there any resources which would have the code which creates the cards available?3:31 AMClaude responded: There's actually some significant news here worth flagging first: Equinox has announced the end of the Altered project, with the theoretical project closure fo…Searched the webSearched the webThere's actually some significant news here worth flagging first: Equinox has announced the end of the Altered project, with the theoretical project closure for the majority of the team on May 20, 2026, and all digital services closing on that date. That's just days ago. Altered TCG
+As part of their wind-down, they published a "Legacy" post about what they're releasing to the community. They plan to make almost all game cards available (likely via GitHub, in English and French only), with the status of Unique cards still being determined. Nearly all game art will also be made available, likely also on GitHub. Altered TCG
+However — and this is the key point for your question — the unique card generation code itself does not appear to have been released. What's available publicly is:
+
+Community card databases: A community-driven GitHub repository of all Common and Rare (non-unique) cards from the Altered TCG, available in all supported languages as JSON files mirroring the official API structure. GitHub
+Fan tools: Things like deck builders and card-fetching bots that use the official API, but not the generation engine itself.
+
+The Generator and Filter algorithms described in their "Unique Cards Explained" article appear to have been proprietary internal tooling that was never open-sourced. Given that the project is shutting down right now, it's worth keeping an eye on their GitHub and the Legacy article (https://www.altered.gg/en-us/news/altered-legacy), as they may release more before fully closing — but based on what's there now, the core generation code hasn't been made public.You said: If I wanted to create a software tool that was able to ingest a handful of files which stored the different traits or features that could be shown on cards, co…If I wanted to create a software tool that was able to ingest a handful of files which stored the different traits or features that could be shown on cards, comma, would Claude be able to produce a tool which could ingest those files and create a full set of all the combinatorics of those card effects, question mark?3:33 AMClaude responded: Yes, absolutely — that's well within what Claude can build for you.Yes, absolutely — that's well within what Claude can build for you. Before diving in, a few quick questions to make sure the tool fits your needs:You said: Q: What format would your trait/feature files be in?Q: What format would your trait/feature files be in?
+A: [No preference]Q: What should the output look like?
+A: [No preference]Q: Any filtering or constraints needed on the combinations?
+A: [No preference]3:33 AMClaude responded: Great — with no hard constraints on any of those, we have a lot of flexibility.Great — with no hard constraints on any of those, we have a lot of flexibility. Let me build you something practical and easy to extend.
+I'll create:
+
+A web-based tool (single HTML file) where you can upload multiple trait files and it generates all combinations
+It'll accept CSV or plain text files (one trait per line, or comma-separated)
+Output will be a browsable table in the UI with a CSV download option
+No filtering to start, but the design will make it easy to add later
+Claude's response was interrupted.Try againYou said: I have claude in the terminal running.I have claude in the terminal running. What's the best way to transfer this context to that terminal?3:34 AMClaude responded: The easiest ways, in order of simplicity:The easiest ways, in order of simplicity:
+
+Just describe it verbally — Claude Code has no memory of this chat, so simply tell it what you want: "Build a CLI tool that ingests multiple trait/feature files (CSV or plain text, one trait per line) and outputs all combinatorial combinations of those traits as a CSV file." That's honestly enough context for it to build something solid.
+Copy the key details — If you want to be precise, paste something like:
+
+   Build a CLI tool that:
+   - Accepts multiple input files (CSV or plain text, one trait per line)
+   - Computes the full cartesian product of all trait lists
+   - Outputs all combinations as a CSV file
+   - Each input file represents one "dimension" (e.g. one file = card colors, another = abilities, etc.)
+
+Export this conversation — On claude.ai you can use the three-dot menu on a conversation to copy or export it, then paste the relevant parts into your terminal session.
+
+Option 1 or 2 is almost certainly the fastest path. Claude Code is very good at inferring intent from a clear one-paragraph brief — you don't need to transfer the full conversation history. Would you like me to draft a tight prompt you can paste directly into the terminal?

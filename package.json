@@ -1,0 +1,24 @@
+{
+  "name": "procedural-card-creator-js",
+  "version": "1.0.0",
+  "description": "A rough prototype of a procedural card creation tool.",
+  "main": "cardCreator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon --watch traits --ext json cardCreator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZintisMay/Procedural-Card-Creator-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZintisMay/Procedural-Card-Creator-JS/issues"
+  },
+  "homepage": "https://github.com/ZintisMay/Procedural-Card-Creator-JS#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
